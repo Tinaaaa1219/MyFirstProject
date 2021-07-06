@@ -1,2 +1,2 @@
 # MyFirstProject
-add my Colab notebook into res
+add my Colab notebook in this repositoty now!
